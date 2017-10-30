@@ -20,8 +20,8 @@ description: > # this means to ignore newlines until "baseurl:"
   algorithms and data mining.
 baseurl: "/ip27" # the subpath of your site, e.g. /blog
 url: "https://moeenuddin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: getmoeen
+github_username:  moeenuddin
 
 # Build settings
 markdown: kramdown
