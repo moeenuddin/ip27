@@ -9,15 +9,17 @@ Wizzard, a person who can do a trick to show a tremendous work done in very easy
 
 A shopping cart that does the similar attempt is here.
 
-	you go to a market, take a cart because you know that you want to spend time in the shop, looking around for
-	things that you need, or may want, or you specifically want to have for now. It will help you
-	carry the product. It will be disposable, and not your owner-ship, and it will make you
-	just do your task. and you are gone.
+	you go to a market, take a cart because you know that you want to spend time
+	in the shop, looking around for things that you need, or may want, or you 
+	specifically want to have for now. It will help you carry the product. It will
+	be disposable, and not your owner-ship, and it will make you just do your task.
+	and you are gone.
 	
 Design:
 
 Shopping basket has features,
-structural features such as name, or number, size, shape, colour, handle position, weight and wheels.
+structural features such as name, or number, size, shape, colour, 
+handle position, weight and wheels.
 
 basket usage can be different.
 
