@@ -1,0 +1,12 @@
+I had a chance to make a debut in a competition.
+
+The intent of the solution attempt was to make a good solution. I have tried char based models linear regression and gradient boosting. I scored 0.72 at public which was 5%
+test data. The data which was short and have cross-referenced were difficult to check.
+
+I also attempted to produce a psuedo rating based on the validation rules. That's a just a wild attempt i wanted to do.
+
+In any competition, understanding the problem setting, and apllying the right reshaping/clean gives you results. Well, to my experience, cleaning does the makes a difference.
+
+here is the public file: I stood in last 2100 people out of 2300. still a lot to learn.
+<iframe src="https://www.kaggle.com/embed/moenuddin/trying-pairwise?kernelSessionId=88555946" height="800" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="using lda"></iframe>
+
